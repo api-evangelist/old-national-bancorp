@@ -19,6 +19,8 @@ modified: '2026-05-04'
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/old-national-bancorp-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/old-national-bank
   - type: Website
